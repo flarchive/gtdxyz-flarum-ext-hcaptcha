@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of gtdxyz/flarum-ext-hcaptcha.** Not for installation: use [Packagist](https://packagist.org/packages/gtdxyz/flarum-ext-hcaptcha) or the [upstream repository](https://github.com/daocatt/flarum-ext-hcaptcha).
 
-**0** versions archived · Latest: [`1.1`](https://github.com/flarchive/gtdxyz-flarum-ext-hcaptcha/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.8`
+**2** versions archived · Latest: [`1.1`](https://github.com/flarchive/gtdxyz-flarum-ext-hcaptcha/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2024-02-23 | `^1.8` | [Browse](https://github.com/flarchive/gtdxyz-flarum-ext-hcaptcha/tree/archive/v1.0) |
+| `1.1` | 2024-02-23 | `^1.8` | [Browse](https://github.com/flarchive/gtdxyz-flarum-ext-hcaptcha/tree/archive/v1.1) |
 
 Catalog entry: [packages/gtdxyz-flarum-ext-hcaptcha.json](https://github.com/flarchive/archive-index/blob/main/packages/gtdxyz-flarum-ext-hcaptcha.json)
 
